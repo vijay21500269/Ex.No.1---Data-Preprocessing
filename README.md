@@ -82,24 +82,24 @@ X_train.shape
 
 ## OUTPUT:
 ### Dataset
-![img1]()
+![img1](https://github.com/vijay21500269/Ex.No.1---Data-Preprocessing/blob/main/NN1.png)
 ### Checking for Null Values
-![img2]()
+![img2](https://github.com/vijay21500269/Ex.No.1---Data-Preprocessing/blob/main/NN2.png)
 ### Checking for duplicate values
-![img3]()
+![img3](https://github.com/vijay21500269/Ex.No.1---Data-Preprocessing/blob/main/NN3.png)
 ### Describing Data
-![img4]()
-![img5]()
+![img4](https://github.com/vijay21500269/Ex.No.1---Data-Preprocessing/blob/main/NN4.png)
+![img5](https://github.com/vijay21500269/Ex.No.1---Data-Preprocessing/blob/main/NN5.png)
 ### X - Values
-![img6]()
+![img6](https://github.com/vijay21500269/Ex.No.1---Data-Preprocessing/blob/main/NN6.png)
 ### Y - Value
-![img7]()
+![img7](https://github.com/vijay21500269/Ex.No.1---Data-Preprocessing/blob/main/NN7.png)
 ### X_train values and X_train Size
-![img8]()
+![img8](https://github.com/vijay21500269/Ex.No.1---Data-Preprocessing/blob/main/NN8.png)
 ### X_test values and X_test Size
-![img9]()
+![img9](https://github.com/vijay21500269/Ex.No.1---Data-Preprocessing/blob/main/NN10.png)
 ### X_train shape
-![img10]()
+![img10](https://github.com/vijay21500269/Ex.No.1---Data-Preprocessing/blob/main/NN9.png)
 
 
 ## RESULT
